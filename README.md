@@ -18,3 +18,6 @@
  How to get API HASH & API ID.?
 >>Just go to my.telegram.org .. there you can find your hash & id after logging in..
 </details>
+
+
+![](https://telegra.ph/file/dc3044ee380fad8ad438b.jpg)
