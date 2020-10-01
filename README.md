@@ -13,6 +13,6 @@
 Fill in Bot Token API ID ,API HASH , Deploy! 
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)]
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nabil-a-navab/img-to-link)
 
 </details>
